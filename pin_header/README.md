@@ -1,4 +1,4 @@
-# Parametric Led Module
+# Parametric Pin Header / Round Pin Header
 
 Made by [Paul McGovern](https://www.thingiverse.com/guv/about)
 
@@ -15,3 +15,5 @@ pin_header(4, 2);
 ```
 pin_header_long(40, 2);
 ```
+
+
