@@ -1,7 +1,7 @@
 // WS2812 (Neopixel) Led modules (in mm)
 
 module ws2812b() {
-  cube([4.5, 4.5, 1], center = true);
+  cube([4.5, 4.5, 1.5], center = true);
 }
 
 // Link: https://www.adafruit.com/product/1612
