@@ -14,7 +14,7 @@ module led_rgb() {
 
 module led(diameter = 5, wires = 2) {
     // Led
-    height = 5 * 1.5;
+    height = diameter * 1.5;
     // LED Flange Thickness
     flange_thick = 1;
     // LED Flange Diameter
